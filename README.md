@@ -24,7 +24,7 @@
 ### 🛡️ Cybersecurity & SOC Tier 1
 - MITRE: `ATT&CK`, `D3FEND`, `CAR`, `Engage`
 - Kill Chain, YARA Rules, CTI tools (`urlscan.io`, `abuse.ch`)
-- Phishing dêtction
+- Phishing detection
 
 ### 🧪 Penetration Testing
 - Tools: `Burp Suite`, `Nmap`, `Wireshark`, `Metasploit`, `VirusTotal`
