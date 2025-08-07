@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm Ho Le Gioi</h1>
-<h3 align="center">🎓 Information Security Student · 🔐 Cybersecurity Enthusiast · 🏫 PTIT HCMC</h3>
+<h1 align="center">Hello, I'm Ho Le Gioi</h1>
+<h3 align="center">Information Security Student · Cybersecurity Enthusiast · PTIT HCMC</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-PTIT%20HCMC-red?style=for-the-badge" />
@@ -9,13 +9,13 @@
 
 ---
 
-## 📌 About Me
+## About Me
 
-- 👨‍🎓 **Full Name**: Ho Le Gioi  
-- 🆔 **Student ID**: `N22DCAT019`  
-- 🧭 **Major**: Information Security  
-- 🏆 **Competitions**: CTFs, ICPC, and Cybersecurity Challenges  
-- 📧 **Email**: [legioiho@gmail.com](mailto:legioiho@gmail.com)  
+- **Full Name**: Ho Le Gioi  
+- **Student ID**: `N22DCAT019`  
+- **Major**: Information Security  
+- **Competitions**: CTFs, ICPC, and Cybersecurity Challenges  
+- **Email**: [legioiho@gmail.com](mailto:legioiho@gmail.com)  
 
 ---
 
